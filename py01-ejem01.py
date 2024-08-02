@@ -1,4 +1,3 @@
 print("--------------------------")
-print("Preparado para las pruebas en python")
-print("CAMBIO EN VSCODE EN FORMACION  para subir a hithub")
+print("Terminando el ejercicio 1 de Enrique")
 print("--------------------------")
